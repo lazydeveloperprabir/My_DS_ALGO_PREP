@@ -10,10 +10,6 @@ package dzone;
  */
 
 
-class Node{
-	int data;
-	Node next;
-}
 public class Traversing_a_singly_linked_list {
 
 	/**
